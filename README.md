@@ -44,4 +44,9 @@ npm run start
 
 ## Screenshot
 
+<img src="https://github.com/JerronM/progressive-budget/blob/main/screenshot.png?raw=true">
+
 ## Links
+GitHub: https://github.com/JerronM/progressive-budget/
+<br>
+Heroku: https://afternoon-dawn-11715.herokuapp.com/
